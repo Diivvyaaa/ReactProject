@@ -2,7 +2,7 @@
 
 @import "tailwindcss";
 
-@theme {
+@theme{
   --font-brand: 'Playfair Display', Georgia, serif;
   --font-body: 'DM Sans', sans-serif;
   --color-accent: #c9502a;
